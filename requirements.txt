@@ -1,0 +1,9 @@
+langchain
+faiss-cpu
+pandas
+langchain
+sentence-transformers
+ctransformers
+langchain-huggingface
+fastapi
+uvicorn
